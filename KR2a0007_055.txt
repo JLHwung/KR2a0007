@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 55
+#+DATE: 2015-08-24 22:19:38.654154
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR2a0007_WYG_055-1a>¶
 欽定四庫全書¶
 　前漢書卷五十五¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　前漢書卷五十五¶
+#+PROPERTY: JUAN 卷五十五考證
 <pb:KR2a0007_WYG_055-23a>¶
 　前漢書卷五十五考證¶
 衛青傳平陽侯曹夀注師古云云○(臣召南/)按史記曹¶
@@ -452,4 +455,3 @@
 　去病同官非也漢書去驃字是¶
 　¶
 　前漢書卷五十五考證¶
-

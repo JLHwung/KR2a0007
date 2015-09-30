@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 50
+#+DATE: 2015-08-24 22:19:38.551560
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十
 <pb:KR2a0007_WYG_050-1a>¶
 欽定四庫全書¶
 　前漢書卷五十¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　前漢書卷五十¶
+#+PROPERTY: JUAN 卷五十考證
 <pb:KR2a0007_WYG_050-18a>¶
 　前漢書卷五十考證¶
 張釋之傳尉左右視盡不能對注視其屬官盡不能對¶
@@ -344,4 +347,3 @@
 下邽翟公為廷尉○(臣召南/)按公卿表翟公為廷尉在¶
 　元光五年¶
 　前漢書卷五十考證¶
-

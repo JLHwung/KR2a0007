@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:19:37.784231
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR2a0007_WYG_018-1a>¶
 欽定四庫全書¶
 　前漢書卷十八¶
@@ -170,6 +172,7 @@
 　¶
 　¶
 　前漢書卷十八¶
+#+PROPERTY: JUAN 卷十八考證
 <pb:KR2a0007_WYG_018-35a>¶
 　前漢書卷十八考證¶
 外戚恩澤侯表據春秋褒紀之義○(臣召南/)按此據公¶
@@ -206,4 +209,3 @@
 　¶
 　¶
 　前漢書卷十八考證¶
-

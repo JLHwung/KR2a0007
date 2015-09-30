@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:19:37.658087
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0007_WYG_011-1a>¶
 欽定四庫全書¶
 　前漢書卷十一¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　前漢書卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR2a0007_WYG_011-11a>¶
 　前漢書卷十一考證¶
 哀帝紀使執金吾任宏守大鴻臚持節徴定陶王○胡¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　前漢書卷十一考證¶
-

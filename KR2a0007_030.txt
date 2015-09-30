@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:19:38.158579
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR2a0007_WYG_030-1a>¶
 欽定四庫全書¶
 　前漢書卷三十¶
@@ -1208,6 +1210,7 @@
 　¶
 　¶
 　前漢書卷三十¶
+#+PROPERTY: JUAN 卷三十考證
 <pb:KR2a0007_WYG_030-68a>¶
 　　前漢書巻三十考證¶
 藝文志大收篇籍廣開獻書之路○(臣召南/)按此二句¶
@@ -1280,4 +1283,3 @@
 　¶
 　¶
 　前漢書卷三十考證¶
-

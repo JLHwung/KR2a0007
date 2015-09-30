@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:19:38.227888
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR2a0007_WYG_033-1a>¶
 欽定四庫全書¶
 　前漢書卷三十三¶
@@ -236,6 +238,7 @@
 (也據如此賛所云則韓萬先祖武王之裔而杜/預等以為出自曲沃成師未詳其説與讀曰歟)¶
 　¶
 　前漢書卷三十三¶
+#+PROPERTY: JUAN 卷三十三考證
 <pb:KR2a0007_WYG_033-14a>¶
 　前漢書卷三十三考證¶
 魏豹傳圍臨濟○(臣召南/)按後志陳留郡平邱縣有臨¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　前漢書卷三十三考證¶
-

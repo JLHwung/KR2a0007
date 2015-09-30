@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:29
-#+PROPERTY: JUAN 70
+#+DATE: 2015-08-24 22:19:39.001042
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十
 <pb:KR2a0007_WYG_070-1a>¶
 欽定四庫全書¶
 　前漢書卷七十¶
@@ -524,6 +526,7 @@
 其餘無稱焉陳湯儻&KR1733;不自收歛(師古曰儻&KR1733;無/行檢也&KR1733;音蕩)卒用¶
 困窮議者閔之故備列云¶
 　前漢書卷七十¶
+#+PROPERTY: JUAN 卷七十考證
 <pb:KR2a0007_WYG_070-30a>¶
 　前漢書卷七十考證¶
 傅介子傳詔曰樓蘭王安歸○此傳及昭紀並作安歸¶
@@ -596,4 +599,3 @@
 　¶
 　¶
 　前漢書卷七十考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:29
-#+PROPERTY: JUAN 84
+#+DATE: 2015-08-24 22:19:39.324932
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十四
 <pb:KR2a0007_WYG_084-1a>¶
 欽定四庫全書¶
 　前漢書卷八十四¶
@@ -506,6 +508,7 @@
 不量力懐忠憤𤼵以隕其宗悲夫¶
 　¶
 　前漢書卷八十四¶
+#+PROPERTY: JUAN 卷八十四考證
 <pb:KR2a0007_WYG_084-29a>¶
 　前漢書卷八十四考證¶
 翟方進𫝊受春秋○按儒林𫝊方進受榖梁春秋於尹¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　前漢書卷八十四考證¶
-

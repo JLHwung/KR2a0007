@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:19:38.137250
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR2a0007_WYG_029-1a>¶
 欽定四庫全書¶
 　前漢書卷二十九¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　前漢書卷二十九¶
+#+PROPERTY: JUAN 卷二十九考證
 <pb:KR2a0007_WYG_029-23a>¶
 　前漢書卷二十九考證¶
 溝洫志入於勃海注臣瓚曰武帝元光三年河移徙東¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　前漢書卷二十九考證¶
-

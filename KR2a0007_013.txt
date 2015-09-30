@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:19:37.687628
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR2a0007_WYG_013-1a>¶
 欽定四庫全書¶
 　前漢書卷十三¶
@@ -94,6 +96,7 @@
 　¶
 　¶
 　前漢書卷十三¶
+#+PROPERTY: JUAN 卷十三考證
 <pb:KR2a0007_WYG_013-21a>¶
 　前漢書卷十三考證¶
 異姓諸侯王表秦起襄公章文繆獻○(臣召南/)按史記¶
@@ -112,4 +115,3 @@
 　一月如此事史記在五月此文則在四月¶
 　¶
 　前漢書卷十三考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:29
-#+PROPERTY: JUAN 75
+#+DATE: 2015-08-24 22:19:39.131506
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十五
 <pb:KR2a0007_WYG_075-1a>¶
 欽定四庫全書¶
 　前漢書卷七十五¶
@@ -722,6 +724,7 @@
 　¶
 　¶
 　前漢書卷七十五¶
+#+PROPERTY: JUAN 卷七十五考證
 <pb:KR2a0007_WYG_075-41a>¶
 　前漢書卷七十五考證¶
 眭𢎞傳從嬴公受春秋○儒林傳嬴公東平人受公羊¶
@@ -776,4 +779,3 @@
 　¶
 　¶
 　前漢書卷七十五考證¶
-

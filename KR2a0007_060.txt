@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 60
+#+DATE: 2015-08-24 22:19:38.780488
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十
 <pb:KR2a0007_WYG_060-1a>¶
 欽定四庫全書¶
 　前漢書卷六十¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　前漢書卷六十¶
+#+PROPERTY: JUAN 卷六十考證
 <pb:KR2a0007_WYG_060-23a>¶
 　前漢書卷六十考證¶
 杜周傳為執金吾逐捕桑𢎞羊衛皇后昆弟子○顧炎¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　前漢書卷六十考證¶
-

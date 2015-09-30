@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:19:37.897346
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR2a0007_WYG_022-1a>¶
 欽定四庫全書¶
 　前漢書卷二十二¶
@@ -740,6 +742,7 @@
 　¶
 　¶
 　前漢書卷二十二¶
+#+PROPERTY: JUAN 卷二十二考證
 <pb:KR2a0007_WYG_022-42a>¶
 　前漢書卷二十二考證¶
 禮樂志六經之道同歸注師古云云○監本於此卷脫¶
@@ -830,4 +833,3 @@
 　¶
 　¶
 　前漢書卷二十二考證¶
-

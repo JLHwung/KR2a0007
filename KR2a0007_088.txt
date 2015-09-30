@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:29
-#+PROPERTY: JUAN 88
+#+DATE: 2015-08-24 22:19:39.430005
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十八
 <pb:KR2a0007_WYG_088-1a>¶
 欽定四庫全書¶
 　前漢書卷八十八¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　前漢書卷八十八¶
+#+PROPERTY: JUAN 卷八十八考證
 <pb:KR2a0007_WYG_088-35a>¶
 　前漢書卷八十八考證¶
 儒林傳故詳延天下方聞之士咸登諸朝注師古曰方¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　前漢書卷八十八考證¶
-

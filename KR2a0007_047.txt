@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 47
+#+DATE: 2015-08-24 22:19:38.480341
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十七
 <pb:KR2a0007_WYG_047-1a>¶
 欽定四庫全書¶
 　前漢書卷四十七¶
@@ -218,6 +220,7 @@
 　¶
 　¶
 　前漢書卷四十七¶
+#+PROPERTY: JUAN 卷四十七考證
 <pb:KR2a0007_WYG_047-13a>¶
 　前漢書卷四十七考證¶
 梁孝王武傳西至髙陽注蘇林曰陳留北縣○(臣召南/)¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　前漢書卷四十七考證¶
-

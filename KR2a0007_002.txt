@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:19:37.481014
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR2a0007_WYG_002-1a>¶
 欽定四庫全書¶
 　前漢書卷二¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　前漢書卷二¶
+#+PROPERTY: JUAN 卷二考證
 <pb:KR2a0007_WYG_002-8a>¶
 　前漢書卷二考證¶
 惠帝紀第二○(臣召南/)按史記於高祖夲紀後孝文夲¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　前漢書卷二考證¶
-

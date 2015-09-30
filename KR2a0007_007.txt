@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:19:37.569185
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0007_WYG_007-1a>¶
 欽定四庫全書¶
 　前漢書卷七¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　前漢書卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR2a0007_WYG_007-14a>¶
 　前漢書卷七考證¶
 昭帝紀發軍屯西河○監本訛屯河西從宋本改¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　前漢書卷七考證¶
-

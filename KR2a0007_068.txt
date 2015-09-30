@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 68
+#+DATE: 2015-08-24 22:19:38.946806
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十八
 <pb:KR2a0007_WYG_068-1a>¶
 欽定四庫全書¶
 　前漢書卷六十八¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　前漢書卷六十八¶
+#+PROPERTY: JUAN 卷六十八考證
 <pb:KR2a0007_WYG_068-34a>¶
 　前漢書卷六十八考證¶
 霍光傳時光與金日磾上官桀等云云○(臣召南/)按捕¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　前漢書卷六十八考證¶
-

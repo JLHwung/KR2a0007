@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:19:38.327668
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR2a0007_WYG_039-1a>¶
 欽定四庫全書¶
 　前漢書卷三十九¶
@@ -290,6 +292,7 @@
 (世之所尊仰/故曰宗臣也)慶流苖裔盛矣哉¶
 　¶
 　前漢書卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR2a0007_WYG_039-17a>¶
 　前漢書卷三十九考證¶
 蕭何傳常佑之○史記作常左右之¶
@@ -344,4 +347,3 @@
 　¶
 　¶
 　前漢書卷三十九考證¶
-

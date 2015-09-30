@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 52
+#+DATE: 2015-08-24 22:19:38.587370
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十二
 <pb:KR2a0007_WYG_052-1a>¶
 欽定四庫全書¶
 　前漢書卷五十二¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　前漢書卷五十二¶
+#+PROPERTY: JUAN 卷五十二考證
 <pb:KR2a0007_WYG_052-28a>¶
 　前漢書卷五十二考證¶
 竇嬰傳字王孫○(臣召南/)按史記無嬰字觀景帝語嬰¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　前漢書卷五十二考證¶
-

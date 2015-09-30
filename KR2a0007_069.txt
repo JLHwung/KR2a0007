@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:29
-#+PROPERTY: JUAN 69
+#+DATE: 2015-08-24 22:19:38.968510
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十九
 <pb:KR2a0007_WYG_069-1a>¶
 欽定四庫全書¶
 　前漢書卷六十九¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　前漢書卷六十九¶
+#+PROPERTY: JUAN 卷六十九考證
 <pb:KR2a0007_WYG_069-28a>¶
 　前漢書卷六十九考證¶
 趙充國傳以假司馬從貳師將軍擊匈奴○(臣召南/)按¶
@@ -560,4 +563,3 @@
 　¶
 　¶
 　前漢書卷六十九考證¶
-

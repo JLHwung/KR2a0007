@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:28
-#+PROPERTY: JUAN 49
+#+DATE: 2015-08-24 22:19:38.531215
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十九
 <pb:KR2a0007_WYG_049-1a>¶
 欽定四庫全書¶
 　前漢書卷四十九¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　前漢書卷四十九¶
+#+PROPERTY: JUAN 卷四十九考證
 <pb:KR2a0007_WYG_049-33a>¶
 　前漢書卷四十九考證¶
 爰盎傳爰盎○史記作袁(臣召南/)按爰與袁轅通史游¶
@@ -614,4 +617,3 @@
 　趙括必敗之勢異也使錯父為之是沮其子為忠也¶
 　孰可擬議¶
 　前漢書卷四十九考證¶
-

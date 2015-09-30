@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢書
-#+DATE: 2015-09-23 09:41:29
-#+PROPERTY: JUAN 101
+#+DATE: 2015-08-24 22:19:39.809404
+#+PROPERTY: ID KR2a0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [考證跋語]
 <pb:KR2a0007_WYG_101-1a>¶
 　　侍讀(臣召南/)謹言史之良首推遷固固才似若不¶
 　　及遷者然其整齊一代之書文贍事詳與遷書異¶
@@ -50,4 +52,3 @@
 <pb:KR2a0007_WYG_101-3b>¶
 　　發明刋三劉所未及者條錄以附於每卷云(臣召/)¶
 　　(南/)謹識¶
-
